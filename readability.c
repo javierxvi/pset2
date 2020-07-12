@@ -35,9 +35,7 @@ int main(void)
                 break;
             default:
                 if (text[i] > 90 && text[i] < 65)
-                {
-                    l--;
-                }
+                { }
                 else
                 {
                     l++;
